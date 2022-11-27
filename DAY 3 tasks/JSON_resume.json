@@ -21,21 +21,8 @@
     "endDate": "2021-05-01",
     "score": "8"
   }],
-  "awards": [{
-    "title": "Award",
-    "date": "2014-11-01",
-    "awarder": "Company",
-    "summary": "There is no spoon."
-  }],
-  "certificates": [{
-    "name": "Certificate",
-    "date": "2021-11-07",
-    "issuer": "Company",
-    "url": "https://certificate.com"
-  }],
   "skills": [{
-    "name": "Web Development",
-    "level": "Master",
+    "name": "Full Stack Development",
     "keywords": [
       "HTML",
       "CSS",
