@@ -1,0 +1,52 @@
+        {
+    "Personal Details": {
+    "name": "Satya Kumar",
+    "designation": "full stack developer",
+    "email": "satyakumars@outlook.com",
+    "phone": "**********",
+    "Address": {
+      "home address": "XYZ",
+      "postalCode": "627117",
+      "city": "Vallioor",
+      "countryCode": "91",
+      "State": "Tamilnadu"
+    }
+  },
+  "education": [{
+    "institution": "Bishop Heber College",
+    "url": "http://bhc.edu.in/",
+    "course": "physics",
+    "Degree": "masters",
+    "startDate": "2019-06-01",
+    "endDate": "2021-05-01",
+    "score": "8"
+  }],
+  "awards": [{
+    "title": "Award",
+    "date": "2014-11-01",
+    "awarder": "Company",
+    "summary": "There is no spoon."
+  }],
+  "certificates": [{
+    "name": "Certificate",
+    "date": "2021-11-07",
+    "issuer": "Company",
+    "url": "https://certificate.com"
+  }],
+  "skills": [{
+    "name": "Web Development",
+    "level": "Master",
+    "keywords": [
+      "HTML",
+      "CSS",
+      "JavaScript"
+    ]
+  }],
+  "languages": [{
+    "language": "Tamil",
+    "fluency": "Native speaker"
+  }],
+  "interests": [{
+    "name": "Football, Anime"    
+  }]
+}
