@@ -1,0 +1,27 @@
+.contents{
+    text-align: center;
+}
+body{
+    background-color: rgb(203, 248, 233);
+}
+
+.main{
+    margin-top:170px;
+    position: absolute;
+    width: 400px;
+    box-shadow: 2px 2px 5px 5px rgba(0,0,0,0.15);
+    border-radius: 10px;
+    margin-left: 40%;
+}
+
+#buttontimer{
+    margin-left:150px;
+}
+
+#para{
+    color: red;
+}
+
+body{
+    background-color: skyblue;
+}
